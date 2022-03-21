@@ -1,7 +1,6 @@
 //type Number
 
 const meuNumero = 3;
-
 const primeiroNumero = 1;
 const segundoNumero = 2;
 
@@ -18,7 +17,7 @@ const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 
 console.log(novaOperacao)
 
-//NaN = NOT A NUMBER(NÃO É UM NUMERO)
+//NaN
 
 const alura = "Alura";
 
