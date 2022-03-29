@@ -42,7 +42,7 @@ tem função de realizar comparações em uma única linnha, esse operador é, b
 
 - template-strings surgiu para facilitar a função de concatenação. Para realizar essa transformação é necessario substituir as aspas duplas("), pelo acento grave (`) e colocando os valores das variaveis dentro da string, substituindo os simbolos de soma (+), pelo simbolo de cifrão seguido por chaves (${}) inserindo dentro dela o nome da variavel.
 
--A cláusula que chamamos de return tem que ser a última linha da função.
+- A cláusula que chamamos de return tem que ser a última linha da função.
 
 - O JavaScript nos oferece algumas funções, como é o caso de funções matemáticas (Math.) usada para realizar e declarar operações matematicas, ex. Math.round() Faz o arredondamento, Math.trunc()Faz truncamentos, ou seja, Desconsidera os números decimais. etc.
 
