@@ -42,7 +42,7 @@ tem função de realizar comparações em uma única linnha, esse operador é, b
 
 - template-strings surgiu para facilitar a função de concatenação. Para realizar essa transformação é necessario substituir as aspas duplas("), pelo acento grave (`) e colocando os valores das variaveis dentro da string, substituindo os simbolos de soma (+), pelo simbolo de cifrão seguido por chaves (${}) inserindo dentro dela o nome da variavel.
 
--A cláusula que chamamos de return tem que ser a última linha da função.
+- A cláusula que chamamos de return tem que ser a última linha da função.
 
 - O JavaScript nos oferece algumas funções, como é o caso de funções matemáticas (Math.) usada para realizar e declarar operações matematicas, ex. Math.round() Faz o arredondamento, Math.trunc()Faz truncamentos, ou seja, Desconsidera os números decimais. etc.
 
@@ -53,3 +53,8 @@ tem função de realizar comparações em uma única linnha, esse operador é, b
 - Hoisting, que é içar ou levantar; traz todas as declarações para cima do nosso código. É quando o interpretador do JavaScript passa pelo nosso código e puxa todas as declarações para o topo do código. Então, ele vai, primeiro, iniciar todas essas declarações e todas as nossas var, e depois vai executar o nosso código, listando as funções que são declaradas e o que é declarado como var, e antes de começar qualquer coisa.
 
 - Arrow representa uma flexa (=>) em sua sintaxe. Com essa função o codigo passa a ter apenas 1 linha. Ela sempre vem com uma Const e o nome da variavel que usaremos antes de ser declarada. Em caso de duas linhas ou mais de codigo, deve-se usar as chaves e o return.
+
+- Destructuring É uma expressão que permite extrair dados de um Array ou Object em variáveis distintas.
+Um array é uma lista ordenada de valores, sua principal finalidade é guardar informações de modo ordenado.
+
+
