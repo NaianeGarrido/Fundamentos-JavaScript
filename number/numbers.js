@@ -6,16 +6,16 @@ const segundoNumero = 2;
 
 const operacaoMatematica = primeiroNumero / segundoNumero;
 
-console.log(operacaoMatematica)
+console.log(operacaoMatematica);
 
 // ponto flutuante
 
 const numeroPontoFlutuante = 3.3;
-const pontoFlutuantesemZero = .5
+const pontoFlutuantesemZero = .5;
 
 const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 
-console.log(novaOperacao)
+console.log(novaOperacao);
 
 //NaN
 

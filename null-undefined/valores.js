@@ -1,5 +1,5 @@
 let minhaVar;
-let varnull = null;
+let varNull = null;
 
 console.log(varNull); // null
 console.log(minhaVar); // undefined
