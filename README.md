@@ -1,5 +1,5 @@
 # Fundamentos-JavaScript
- Tipos, variaveis e funções
+ *Tipos, variaveis e funções*
 
  *formas de escritas de VARIAVEIS:*
 - camelCase: Inicia com letra minúscula e a primeira letra de cada palavra em seguida é escrita com letra maiúscula. Por exemplo: minhaVar ou senhaDoUsuario. Esta é a convenção utilizada pelo JavaScript para variáveis e funções.
@@ -13,11 +13,9 @@
 
 - const: mantêm valores constantes. Declarações com const compartilham algumas semelhanças com as declarações com let, porém, Ela não pode ser atualizada nem declarada novamente. Cada declaração com const, deve ser inicializada novamnete no momento da declaração. 
 
-
 - Booleanos sendo verdadeiro ou falso, sim ou não.
 - conversoes Implícita permite que declaremos Verdadeiro ou falso, expondo a relação entre os valores apresentados, se eles são realmente semelhantes, mesmo que escritos ou apresentados de forma diferentes.
 - Conversão Explicita- usada para transformar valores. converte valor contido naquela declaração, sendo numero para "String" ou string para "Number"
-
 
 - toLowerCase()  converte todos os caracteres da string informada 
 
